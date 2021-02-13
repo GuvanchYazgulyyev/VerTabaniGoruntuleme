@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\bin\Debug\sql orek ders 12.exe.config
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\bin\Debug\sql orek ders 12.exe
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\bin\Debug\sql orek ders 12.pdb
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql orek ders 12.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql_orek_ders_12.Form1.resources
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql_orek_ders_12.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql orek ders 12.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql orek ders 12.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql orek ders 12.exe
+C:\Users\Dell\source\repos\C# ders 12\sql orek ders 12\sql orek ders 12\obj\Debug\sql orek ders 12.pdb
